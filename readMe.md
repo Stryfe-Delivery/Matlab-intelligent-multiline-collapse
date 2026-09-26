@@ -97,7 +97,3 @@ Works in any modern browser that supports ES2021 features (`String.prototype.rep
 - Assumes standard MATLAB syntax; unusual constructs (e.g. command-form function calls) may not parse perfectly.
 - Does not reformat code beyond collapsing continuations — it is a reviewer, not a formatter.
 - Any section breaks, plaintext, or images in the source .mlx are not transferred back and forth. you will need to reinsert section breaks after
-
-## License
-
-MIT
